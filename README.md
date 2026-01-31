@@ -48,8 +48,8 @@ The model was evaluated using the **Accuracy Score**.
 
 | Metric | Score |
 | :--- | :--- |
-| **Training Data Accuracy** | **94.29%** |
-| **Test Data Accuracy** | **91.88%** |
+| **Training Data Accuracy** | **94.66%** |
+| **Test Data Accuracy** | **93.91%** |
 
 * The model achieved a high accuracy on both training and unseen test data, indicating that it generalized well without overfitting.
 
